@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SessionDemo</string>
+    <string name="app_version">App Version: %1$s</string>
+    <string name="_login">Login Screen</string>
+    <string name="click_again_to_exit">Press back again to exit from app.</string>
+    <string name="_exit_alert">Exit Alert!!</string>
+    <string name="_yes">Yes</string>
+    <string name="_no">No</string>
+    <string name="_sure_exit_alert">Are you sure to exit from the app?</string>
+
+</resources>
